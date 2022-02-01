@@ -8,7 +8,7 @@
     <body>  
       
         <form action="session.jsp" method="post">  
-            Name  : <input type="text" name="uname">
+            Nome  : <input type="text" name="uname">
             
             OK VAI : <input type="text" name="email">
  
