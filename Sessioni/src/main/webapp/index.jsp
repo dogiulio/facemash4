@@ -10,7 +10,7 @@
         <form action="session.jsp" method="post">  
             Name  : <input type="text" name="uname">
             
-            Email : <input type="text" name="email">
+            Booooooooooo : <input type="text" name="email">
  
                     <input type="submit" value="Click"><br/>  
        
